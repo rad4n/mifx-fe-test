@@ -1,0 +1,19 @@
+.slick-dots .slick-thumb li {
+    width: auto !important;
+}
+
+.thumbnail {
+    max-width: 80px;
+}
+
+.customdots {
+    width: auto !important;
+}
+
+.slideIndex {
+    position: absolute;
+    font-weight: bold;
+    top: 30%;
+    right: 55%;
+
+}
